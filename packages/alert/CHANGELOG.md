@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0-alpha.7](https://github.com/zwsf/el-demo/compare/@el-demo/alert@1.0.0-alpha.6...@el-demo/alert@1.0.0-alpha.7) (2020-12-12)
+
+
+### Features
+
+* **component:** add tree ([5536891](https://github.com/zwsf/el-demo/commit/5536891eec884ac1df72a9911b6e0ba52f5ac4e5))
+
+
+
+
+
 # [1.0.0-alpha.6](https://github.com/zwsf/el-demo/compare/@el-demo/alert@1.0.0-alpha.5...@el-demo/alert@1.0.0-alpha.6) (2020-12-12)
 
 **Note:** Version bump only for package @el-demo/alert
