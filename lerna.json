@@ -6,10 +6,9 @@
 	"command": {
 		"version": {
 			"conventionalCommits": true,
-			"allowBranch": "main",
+			"allowBranch": ["main", "master", "feature/*"],
 			"exact": true,
-			"ignoreChanges": ["**/*.md"],
-			"message": "build: release version %v"
+			"ignoreChanges": ["**/*.md"]
 		}
 	}
 }
