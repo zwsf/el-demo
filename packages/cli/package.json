@@ -1,6 +1,6 @@
 {
   "name": "@el-demo/cli",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "> TODO: description",
   "author": "zuiwosuifeng <zuiwosuifeng@gmail.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@el-demo/cli-shared-utils": "^0.0.0",
+    "@el-demo/cli-shared-utils": "^0.0.1-alpha.0",
     "chalk": "^4.1.0",
     "vue": "^2.6.12"
   },
