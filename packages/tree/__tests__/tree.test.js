@@ -1,3 +1,3 @@
-describe('tree', () => {
+describe('@el-demo/tree', () => {
 	it('needs tests')
 })
