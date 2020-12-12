@@ -5,7 +5,11 @@
 	"useWorkspaces": true,
 	"command": {
 		"version": {
-			"conventionalCommits": true
+			"conventionalCommits": true,
+			"allowBranch": "main",
+			"exact": true,
+			"ignoreChanges": ["**/*.md"],
+			"message": "build: release version %v"
 		}
 	}
 }
