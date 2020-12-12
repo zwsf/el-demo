@@ -9,7 +9,7 @@
 			"allowBranch": ["main", "master", "feature/*"],
 			"exact": true,
 			"ignoreChanges": ["**/*.md"],
-			"message": "build: release version %v"
+			"message": "build: release version %s"
 		}
 	}
 }
