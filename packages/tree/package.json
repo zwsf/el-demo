@@ -1,6 +1,6 @@
 {
 	"name": "tree",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "> TODO: description",
 	"author": "zuiwosuifeng <zuiwosuifeng@gmail.com>",
 	"homepage": "https://github.com/zwsf/el-demo#readme",
@@ -22,5 +22,6 @@
 	},
 	"bugs": {
 		"url": "https://github.com/zwsf/el-demo/issues"
-	}
+	},
+	"gitHead": "87a4c84f99d3e17ffe0abc2bcc629857dbee437c"
 }
