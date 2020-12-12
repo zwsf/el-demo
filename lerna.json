@@ -8,7 +8,8 @@
 			"conventionalCommits": true,
 			"allowBranch": ["main", "master", "feature/*"],
 			"exact": true,
-			"ignoreChanges": ["**/*.md"]
+			"ignoreChanges": ["**/*.md"],
+			"message": "build: release version %v"
 		}
 	}
 }
