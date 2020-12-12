@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.11.0](https://github.com/zwsf/el-demo/compare/@el-demo/button@0.10.0...@el-demo/button@0.11.0) (2020-12-12)
+
+
+### Features
+
+* **component:** tree component ([108c267](https://github.com/zwsf/el-demo/commit/108c267a275890575f27f147fc656bda311b9c4a))
+
+
+
+
+
 # [0.10.0](https://github.com/zwsf/el-demo/compare/@el-demo/button@0.9.1...@el-demo/button@0.10.0) (2020-12-12)
 
 
