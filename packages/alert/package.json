@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/zwsf/el-demo/issues"
   },
-  "homepage": "https://github.com/zwsf/el-demo#readme"
+  "homepage": "https://github.com/zwsf/el-demo#readme",
+  "gitHead": "03a3e7a4280d7c8cf5b8db3ea72c0655b6f65272"
 }
