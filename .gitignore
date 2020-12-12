@@ -4,3 +4,4 @@ yarn-error.log
 yarn.lock
 .vscode
 .sw*
+lerna-debug.log
