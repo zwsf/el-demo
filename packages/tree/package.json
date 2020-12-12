@@ -1,5 +1,5 @@
 {
-	"name": "tree",
+	"name": "@el-demo/tree",
 	"version": "0.1.1",
 	"description": "> TODO: description",
 	"author": "zuiwosuifeng <zuiwosuifeng@gmail.com>",
@@ -23,5 +23,5 @@
 	"bugs": {
 		"url": "https://github.com/zwsf/el-demo/issues"
 	},
-	"gitHead": "87a4c84f99d3e17ffe0abc2bcc629857dbee437c"
+	"gitHead": "f9cffab7588b89aaf318648f535d7f50e600cdfd"
 }
